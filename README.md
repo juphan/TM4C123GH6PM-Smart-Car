@@ -1,7 +1,7 @@
 # TM4C123GH6PM-Smart-Car
 Obstacle avoidance car that uses the low-power TI TM4C123GH6PM Tiva Launchpad as the main microcontroller. The device was made to 
 replicate the functions of typical Arduino obstacle avoidance vehicles kits, but instead use C programming to program the board. 
-The code is relatively simple and structured to allow changes to the code.
+The code is relatively simple and structured to allow changes to the code. The project was programmed using Keil uVision 5.
 
 Parts List:
 1) TM4C123GH6PM Launchpad
