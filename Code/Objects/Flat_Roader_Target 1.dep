@@ -1,0 +1,33 @@
+Dependencies for Project 'Flat_Roader', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_rvmdk.S)(0x5C0C80B9)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\TI\TM4C123--pd "__UVISION_VERSION SETA 525"--list .\listings\startup_rvmdk.lst --xref -o .\objects\startup_rvmdk.o --depend .\objects\startup_rvmdk.d)
+F (..\..\..\..\driverlib\rvmdk\driverlib.lib)(0x5C02FDFB)()
+F (.\main.c)(0x5C186570)(--c99 --gnu -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\..\.. --c99-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\TI\TM4C123-D__UVISION_VERSION="525" -Drvmdk -DPART_TM4C123GH6PM -DTM4C123GH6PM-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599FA01E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x599FA01E)
+I (main.h)(0x5BF22107)
+I (..\..\..\..\inc/hw_types.h)(0x5BCD0925)
+I (..\..\..\..\inc/hw_memmap.h)(0x5BCD0925)
+I (..\..\..\..\inc/hw_timer.h)(0x5BCD0925)
+I (..\..\..\..\inc/hw_uart.h)(0x5BCD0925)
+I (..\..\..\..\inc/hw_gpio.h)(0x5BCD0925)
+I (..\..\..\..\inc/hw_pwm.h)(0x5BCD0925)
+I (..\..\..\..\driverlib/sysctl.h)(0x5BCD0909)
+I (..\..\..\..\driverlib/pin_map.h)(0x5BCD0909)
+I (..\..\..\..\driverlib/gpio.h)(0x5BCD0908)
+I (..\..\..\..\driverlib/pwm.h)(0x5BCD0909)
+I (..\..\..\..\driverlib/timer.h)(0x5BCD0909)
+I (..\..\..\..\driverlib/interrupt.h)(0x5BCD0909)
+I (..\..\..\..\driverlib/ssi.h)(0x5BCD0909)
+I (..\..\..\..\driverlib/systick.h)(0x5BCD0909)
+I (..\..\..\..\driverlib/uart.h)(0x5BCD0909)
+I (..\..\..\..\driverlib/udma.h)(0x5BCD0909)
+I (..\..\..\..\utils/uartstdio.c)(0x5BCD092E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x599FA01A)
+I (..\..\..\..\inc/hw_ints.h)(0x5BCD0925)
+I (..\..\..\..\driverlib/debug.h)(0x5BCD0908)
+I (..\..\..\..\driverlib/rom.h)(0x5BCD0909)
+I (..\..\..\..\driverlib/rom_map.h)(0x5BCD0909)
+I (..\..\..\..\utils/uartstdio.h)(0x5BCD092E)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x599FA01C)
+I (..\..\..\..\inc/tm4c123gh6pm.h)(0x5BCD0925)
+F (.\main.h)(0x5BF22107)()
