@@ -16,3 +16,7 @@ Parts List:
 10) 6V Battery Pack (4 AA Batteries)
 11) Hammer Caster Wheel (x1)
 12) Mounts and Wheels (3D Printed)
+
+Pin connections is summarized in the C code file named "main.c" within the code folder. Make sure that the "Echo" pin on the HC-SR04 
+sensor does not connect directly to the TM4C123GH6PM Launchpad. This setup prevents damage to the board. Use a 2/3 voltage divider 
+setup on a breadboard to connect the "Echo" pin to the appropriate pin on the microcontroller.
